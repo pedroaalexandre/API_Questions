@@ -1,0 +1,32 @@
+{
+  "consultoria": [
+    {
+      "pergunta": "Por que contratar uma consultoria?",
+      "resposta": "Para garantir uma viagem sem imprevistos, com roteiro feito sob medida e experiências autênticas, sem perder tempo com pesquisas ou decisões cansativas."
+    },
+    {
+      "pergunta": "A consultoria faz reservas também?",
+      "resposta": "Sim. Cuidamos de hospedagens, passeios, transfers e tudo que for necessário para uma viagem completa e tranquila."
+    },
+    {
+      "pergunta": "E se algo der errado durante a viagem?",
+      "resposta": "Você terá suporte direto com a gente. Estamos disponíveis para resolver perrengues e garantir que sua experiência continue incrível, mesmo diante de imprevistos."
+    },
+    {
+      "pergunta": "Atendem todos os perfis de viajantes?",
+      "resposta": "Atendemos quem valoriza conforto, autenticidade e experiências culturais — viajando em casal, em família ou sozinho. Se você busca uma viagem única, é com a gente."
+    },
+    {
+      "pergunta": "Qual é o valor da consultoria?",
+      "resposta": "Depende da complexidade do roteiro. Após uma conversa inicial gratuita, apresentamos uma proposta personalizada com o valor justo pelo cuidado que sua viagem merece."
+    },
+    {
+      "pergunta": "Não sei para onde quero viajar. Vocês ajudam?",
+      "resposta": "Com certeza. Fazemos um diagnóstico do seu perfil e sugerimos destinos que combinem com seu estilo e objetivos."
+    },
+    {
+      "pergunta": "Como funciona o atendimento?",
+      "resposta": "Tudo começa com uma conversa. A partir dela, criamos um projeto exclusivo de viagem. E seguimos juntos até o embarque — e durante toda a viagem, se precisar de nós."
+    }
+  ]
+}
